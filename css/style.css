@@ -9,8 +9,7 @@ body {
   font-family: "Roboto", sans-serif;
   font-size: 14px;
   line-height: 1.6em;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+
 }
 
 
@@ -46,7 +45,7 @@ body {
   font-size: inherit;
   font-weight: 500;
   line-height: inherit;
-  transition: 0.3s ease;
+  
 }
 
 .form-group input:focus {
